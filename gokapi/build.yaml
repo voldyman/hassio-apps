@@ -1,0 +1,4 @@
+build_from:
+  amd64: docker.io/f0rc3/gokapi:v2.2.4
+  aarch64: docker.io/f0rc3/gokapi:v2.2.4
+  armv7: docker.io/f0rc3/gokapi:v2.2.4

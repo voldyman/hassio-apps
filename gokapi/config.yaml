@@ -1,0 +1,16 @@
+name: Gokapi
+version: "2.2.4"
+slug: gokapi
+description: Lightweight self-hosted file sharing server with expiring links
+url: https://github.com/Forceu/Gokapi
+arch:
+  - amd64
+  - aarch64
+  - armv7
+startup: services
+boot: auto
+ports:
+  53842/tcp: 53842
+ports_description:
+  53842/tcp: Web interface
+webui: http://[HOST]:[PORT:53842]

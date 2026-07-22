@@ -1,0 +1,15 @@
+name: BentoPDF
+version: "2.8.6"
+slug: bentopdf
+description: Privacy-first PDF toolkit — all processing happens in your browser
+url: https://github.com/alam00000/bentopdf
+arch:
+  - amd64
+  - aarch64
+startup: services
+boot: auto
+ports:
+  8080/tcp: 3000
+ports_description:
+  8080/tcp: Web interface
+webui: http://[HOST]:[PORT:8080]
