@@ -9,6 +9,8 @@ installable add-ons.
 |---|---|---|
 | [Gokapi](gokapi/) | Lightweight self-hosted file sharing with expiring links | 53842 |
 | [BentoPDF](bentopdf/) | Privacy-first PDF toolkit, fully client-side | 3000 |
+| [Stirling PDF](stirling-pdf/) | Full-featured PDF toolbox (merge, OCR, convert, sign) | 2080 |
+| [Paperless-ngx](paperless-ngx/) | Document management system with OCR and search (prebuilt add-on image by [BenoitAnastay](https://github.com/BenoitAnastay/paperless-home-assistant-addon), supports Ingress) | Ingress |
 
 ## Installation
 
